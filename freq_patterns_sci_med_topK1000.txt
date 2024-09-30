@@ -1,0 +1,1000 @@
+explain:15 
+gave:15 
+explanation:15 
+wonder:15 
+companies:15 
+computing:15 
+v1:15 
+prescription:14 
+worry:14 
+direct:14 
+complete:14 
+neither:14 
+promote:14 
+schools:14 
+mostly:14 
+vs:14 
+patently:14 
+wishes:14 
+gone:14 
+hour:14 
+working:14 
+donald:14 
+gotten:14 
+happens:14 
+giving:14 
+stop:14 
+easily:14 
+feeling:13 
+relationship:13 
+request:13 
+folks:13 
+follow:13 
+suffer:13 
+absolutely:13 
+whom:13 
+chocolate:13 
+benefit:13 
+author:13 
+seriously:13 
+somewhere:13 
+unknown:13 
+exists:13 
+beginning:13 
+daughter:13 
+existing:13 
+outside:13 
+plan:13 
+model:13 
+continued:13 
+39:13 
+attached:13 
+top:13 
+chicago:13 
+finally:13 
+requires:13 
+consume:13 
+personally:13 
+ontario:13 
+mmm:13 
+thorson:13 
+mmm	thorson:13 
+frequent:12 
+immediately:12 
+choice:12 
+earlier:12 
+medications:12 
+actual:12 
+tends:12 
+minor:12 
+putting:12 
+near:12 
+depends:12 
+pay:12 
+waste:12 
+bring:12 
+dying:12 
+fred:12 
+lawrence:12 
+park:12 
+argue:12 
+instance:12 
+purely:12 
+kept:12 
+rapid:12 
+steroid:12 
+philosopher:12 
+whoever:12 
+wi:12 
+gives:12 
+reasonable:12 
+accept:12 
+born:12 
+practitioners:12 
+prove:12 
+social:12 
+programmer:12 
+arguments:12 
+expires:12 
+truth:12 
+sent:12 
+admit:12 
+dealing:12 
+cured:12 
+yourself:12 
+man:12 
+clean:12 
+private:12 
+texas:12 
+eyes:12 
+root:12 
+application:12 
+wondering:12 
+fit:12 
+somehow:12 
+alcohol:12 
+feet:12 
+returned:12 
+communication:11 
+naturally:11 
+equivalent:11 
+begin:11 
+clearly:11 
+additive:11 
+five:11 
+loss:11 
+provides:11 
+coming:11 
+changed:11 
+comment:11 
+european:11 
+helped:11 
+offer:11 
+practitioner:11 
+cold:11 
+81:11 
+happy:11 
+hmmm:11 
+login:11 
+raw:11 
+ate:11 
+contents:11 
+orally:11 
+remedy:11 
+required:11 
+west:11 
+books:11 
+huey:11 
+poor:11 
+providing:11 
+st:11 
+universe:11 
+knowing:11 
+forward:11 
+mention:11 
+rsilver:11 
+definitely:11 
+absurdities:11 
+bertrand:11 
+frightened:11 
+midelfort:11 
+thomas:11 
+convince:11 
+improved:11 
+record:11 
+began:11 
+members:11 
+allowed:11 
+walter:11 
+corp:11 
+act:11 
+component:11 
+dave:11 
+design:11 
+gateway:11 
+produces:11 
+resulting:11 
+successful:11 
+dammit:11 
+1993apr17:11 
+search:11 
+212:11 
+nobody:11 
+fail:11 
+spend:11 
+studied:11 
+cover:11 
+dietary:11 
+wait:11 
+suddenly:11 
+consumption:11 
+watch:11 
+86:11 
+activities:11 
+nc:11 
+improvement:11 
+appear:11 
+developer:11 
+mike:11 
+recommended:11 
+shared:11 
+obtained:11 
+tm:11 
+perfectly:11 
+recovery:11 
+frightened	bertrand	absurdities	wi	whoever	philosopher	wishes	patently	midelfort:11 
+bertrand	absurdities	wi	whoever	philosopher	wishes	patently	frightened:11 
+bertrand	absurdities	wi	whoever	philosopher	wishes	patently	midelfort:11 
+absurdities	wi	whoever	philosopher	wishes	patently	bertrand:11 
+frightened	absurdities	wi	whoever	philosopher	wishes	patently	midelfort:11 
+absurdities	wi	whoever	philosopher	wishes	patently	frightened:11 
+absurdities	wi	whoever	philosopher	wishes	patently	midelfort:11 
+wi	whoever	philosopher	wishes	patently	absurdities:11 
+frightened	bertrand	wi	whoever	philosopher	wishes	patently	midelfort:11 
+bertrand	wi	whoever	philosopher	wishes	patently	frightened:11 
+bertrand	wi	whoever	philosopher	wishes	patently	midelfort:11 
+wi	whoever	philosopher	wishes	patently	bertrand:11 
+frightened	wi	whoever	philosopher	wishes	patently	midelfort:11 
+wi	whoever	philosopher	wishes	patently	frightened:11 
+wi	whoever	philosopher	wishes	patently	midelfort:11 
+whoever	philosopher	wishes	patently	wi:11 
+frightened	bertrand	absurdities	whoever	philosopher	wishes	patently	midelfort:11 
+bertrand	absurdities	whoever	philosopher	wishes	patently	frightened:11 
+bertrand	absurdities	whoever	philosopher	wishes	patently	midelfort:11 
+absurdities	whoever	philosopher	wishes	patently	bertrand:11 
+frightened	absurdities	whoever	philosopher	wishes	patently	midelfort:11 
+absurdities	whoever	philosopher	wishes	patently	frightened:11 
+absurdities	whoever	philosopher	wishes	patently	midelfort:11 
+whoever	philosopher	wishes	patently	absurdities:11 
+frightened	bertrand	whoever	philosopher	wishes	patently	midelfort:11 
+bertrand	whoever	philosopher	wishes	patently	frightened:11 
+bertrand	whoever	philosopher	wishes	patently	midelfort:11 
+whoever	philosopher	wishes	patently	bertrand:11 
+frightened	whoever	philosopher	wishes	patently	midelfort:11 
+whoever	philosopher	wishes	patently	frightened:11 
+whoever	philosopher	wishes	patently	midelfort:11 
+philosopher	wishes	patently	whoever:11 
+frightened	bertrand	absurdities	wi	philosopher	wishes	patently	midelfort:11 
+bertrand	absurdities	wi	philosopher	wishes	patently	frightened:11 
+bertrand	absurdities	wi	philosopher	wishes	patently	midelfort:11 
+absurdities	wi	philosopher	wishes	patently	bertrand:11 
+frightened	absurdities	wi	philosopher	wishes	patently	midelfort:11 
+absurdities	wi	philosopher	wishes	patently	frightened:11 
+absurdities	wi	philosopher	wishes	patently	midelfort:11 
+wi	philosopher	wishes	patently	absurdities:11 
+frightened	bertrand	wi	philosopher	wishes	patently	midelfort:11 
+bertrand	wi	philosopher	wishes	patently	frightened:11 
+bertrand	wi	philosopher	wishes	patently	midelfort:11 
+wi	philosopher	wishes	patently	bertrand:11 
+frightened	wi	philosopher	wishes	patently	midelfort:11 
+wi	philosopher	wishes	patently	frightened:11 
+wi	philosopher	wishes	patently	midelfort:11 
+philosopher	wishes	patently	wi:11 
+frightened	bertrand	absurdities	philosopher	wishes	patently	midelfort:11 
+bertrand	absurdities	philosopher	wishes	patently	frightened:11 
+bertrand	absurdities	philosopher	wishes	patently	midelfort:11 
+absurdities	philosopher	wishes	patently	bertrand:11 
+frightened	absurdities	philosopher	wishes	patently	midelfort:11 
+absurdities	philosopher	wishes	patently	frightened:11 
+absurdities	philosopher	wishes	patently	midelfort:11 
+philosopher	wishes	patently	absurdities:11 
+frightened	bertrand	philosopher	wishes	patently	midelfort:11 
+bertrand	philosopher	wishes	patently	frightened:11 
+bertrand	philosopher	wishes	patently	midelfort:11 
+philosopher	wishes	patently	bertrand:11 
+frightened	philosopher	wishes	patently	midelfort:11 
+philosopher	wishes	patently	frightened:11 
+philosopher	wishes	patently	midelfort:11 
+wishes	patently	philosopher:11 
+frightened	bertrand	absurdities	wi	whoever	wishes	patently	midelfort:11 
+bertrand	absurdities	wi	whoever	wishes	patently	frightened:11 
+bertrand	absurdities	wi	whoever	wishes	patently	midelfort:11 
+absurdities	wi	whoever	wishes	patently	bertrand:11 
+frightened	absurdities	wi	whoever	wishes	patently	midelfort:11 
+absurdities	wi	whoever	wishes	patently	frightened:11 
+absurdities	wi	whoever	wishes	patently	midelfort:11 
+wi	whoever	wishes	patently	absurdities:11 
+frightened	bertrand	wi	whoever	wishes	patently	midelfort:11 
+bertrand	wi	whoever	wishes	patently	frightened:11 
+bertrand	wi	whoever	wishes	patently	midelfort:11 
+wi	whoever	wishes	patently	bertrand:11 
+frightened	wi	whoever	wishes	patently	midelfort:11 
+wi	whoever	wishes	patently	frightened:11 
+wi	whoever	wishes	patently	midelfort:11 
+whoever	wishes	patently	wi:11 
+frightened	bertrand	absurdities	whoever	wishes	patently	midelfort:11 
+bertrand	absurdities	whoever	wishes	patently	frightened:11 
+bertrand	absurdities	whoever	wishes	patently	midelfort:11 
+absurdities	whoever	wishes	patently	bertrand:11 
+frightened	absurdities	whoever	wishes	patently	midelfort:11 
+absurdities	whoever	wishes	patently	frightened:11 
+absurdities	whoever	wishes	patently	midelfort:11 
+whoever	wishes	patently	absurdities:11 
+frightened	bertrand	whoever	wishes	patently	midelfort:11 
+bertrand	whoever	wishes	patently	frightened:11 
+bertrand	whoever	wishes	patently	midelfort:11 
+whoever	wishes	patently	bertrand:11 
+frightened	whoever	wishes	patently	midelfort:11 
+whoever	wishes	patently	frightened:11 
+whoever	wishes	patently	midelfort:11 
+wishes	patently	whoever:11 
+frightened	bertrand	absurdities	wi	wishes	patently	midelfort:11 
+bertrand	absurdities	wi	wishes	patently	frightened:11 
+bertrand	absurdities	wi	wishes	patently	midelfort:11 
+absurdities	wi	wishes	patently	bertrand:11 
+frightened	absurdities	wi	wishes	patently	midelfort:11 
+absurdities	wi	wishes	patently	frightened:11 
+absurdities	wi	wishes	patently	midelfort:11 
+wi	wishes	patently	absurdities:11 
+frightened	bertrand	wi	wishes	patently	midelfort:11 
+bertrand	wi	wishes	patently	frightened:11 
+bertrand	wi	wishes	patently	midelfort:11 
+wi	wishes	patently	bertrand:11 
+frightened	wi	wishes	patently	midelfort:11 
+wi	wishes	patently	frightened:11 
+wi	wishes	patently	midelfort:11 
+wishes	patently	wi:11 
+frightened	bertrand	absurdities	wishes	patently	midelfort:11 
+bertrand	absurdities	wishes	patently	frightened:11 
+bertrand	absurdities	wishes	patently	midelfort:11 
+absurdities	wishes	patently	bertrand:11 
+frightened	absurdities	wishes	patently	midelfort:11 
+absurdities	wishes	patently	frightened:11 
+absurdities	wishes	patently	midelfort:11 
+wishes	patently	absurdities:11 
+frightened	bertrand	wishes	patently	midelfort:11 
+bertrand	wishes	patently	frightened:11 
+bertrand	wishes	patently	midelfort:11 
+wishes	patently	bertrand:11 
+frightened	wishes	patently	midelfort:11 
+wishes	patently	frightened:11 
+wishes	patently	midelfort:11 
+patently	wishes:11 
+frightened	bertrand	absurdities	wi	whoever	philosopher	patently	midelfort:11 
+bertrand	absurdities	wi	whoever	philosopher	patently	frightened:11 
+bertrand	absurdities	wi	whoever	philosopher	patently	midelfort:11 
+absurdities	wi	whoever	philosopher	patently	bertrand:11 
+frightened	absurdities	wi	whoever	philosopher	patently	midelfort:11 
+absurdities	wi	whoever	philosopher	patently	frightened:11 
+absurdities	wi	whoever	philosopher	patently	midelfort:11 
+wi	whoever	philosopher	patently	absurdities:11 
+frightened	bertrand	wi	whoever	philosopher	patently	midelfort:11 
+bertrand	wi	whoever	philosopher	patently	frightened:11 
+bertrand	wi	whoever	philosopher	patently	midelfort:11 
+wi	whoever	philosopher	patently	bertrand:11 
+frightened	wi	whoever	philosopher	patently	midelfort:11 
+wi	whoever	philosopher	patently	frightened:11 
+wi	whoever	philosopher	patently	midelfort:11 
+whoever	philosopher	patently	wi:11 
+frightened	bertrand	absurdities	whoever	philosopher	patently	midelfort:11 
+bertrand	absurdities	whoever	philosopher	patently	frightened:11 
+bertrand	absurdities	whoever	philosopher	patently	midelfort:11 
+absurdities	whoever	philosopher	patently	bertrand:11 
+frightened	absurdities	whoever	philosopher	patently	midelfort:11 
+absurdities	whoever	philosopher	patently	frightened:11 
+absurdities	whoever	philosopher	patently	midelfort:11 
+whoever	philosopher	patently	absurdities:11 
+frightened	bertrand	whoever	philosopher	patently	midelfort:11 
+bertrand	whoever	philosopher	patently	frightened:11 
+bertrand	whoever	philosopher	patently	midelfort:11 
+whoever	philosopher	patently	bertrand:11 
+frightened	whoever	philosopher	patently	midelfort:11 
+whoever	philosopher	patently	frightened:11 
+whoever	philosopher	patently	midelfort:11 
+philosopher	patently	whoever:11 
+frightened	bertrand	absurdities	wi	philosopher	patently	midelfort:11 
+bertrand	absurdities	wi	philosopher	patently	frightened:11 
+bertrand	absurdities	wi	philosopher	patently	midelfort:11 
+absurdities	wi	philosopher	patently	bertrand:11 
+frightened	absurdities	wi	philosopher	patently	midelfort:11 
+absurdities	wi	philosopher	patently	frightened:11 
+absurdities	wi	philosopher	patently	midelfort:11 
+wi	philosopher	patently	absurdities:11 
+frightened	bertrand	wi	philosopher	patently	midelfort:11 
+bertrand	wi	philosopher	patently	frightened:11 
+bertrand	wi	philosopher	patently	midelfort:11 
+wi	philosopher	patently	bertrand:11 
+frightened	wi	philosopher	patently	midelfort:11 
+wi	philosopher	patently	frightened:11 
+wi	philosopher	patently	midelfort:11 
+philosopher	patently	wi:11 
+frightened	bertrand	absurdities	philosopher	patently	midelfort:11 
+bertrand	absurdities	philosopher	patently	frightened:11 
+bertrand	absurdities	philosopher	patently	midelfort:11 
+absurdities	philosopher	patently	bertrand:11 
+frightened	absurdities	philosopher	patently	midelfort:11 
+absurdities	philosopher	patently	frightened:11 
+absurdities	philosopher	patently	midelfort:11 
+philosopher	patently	absurdities:11 
+frightened	bertrand	philosopher	patently	midelfort:11 
+bertrand	philosopher	patently	frightened:11 
+bertrand	philosopher	patently	midelfort:11 
+philosopher	patently	bertrand:11 
+frightened	philosopher	patently	midelfort:11 
+philosopher	patently	frightened:11 
+philosopher	patently	midelfort:11 
+patently	philosopher:11 
+frightened	bertrand	absurdities	wi	whoever	patently	midelfort:11 
+bertrand	absurdities	wi	whoever	patently	frightened:11 
+bertrand	absurdities	wi	whoever	patently	midelfort:11 
+absurdities	wi	whoever	patently	bertrand:11 
+frightened	absurdities	wi	whoever	patently	midelfort:11 
+absurdities	wi	whoever	patently	frightened:11 
+absurdities	wi	whoever	patently	midelfort:11 
+wi	whoever	patently	absurdities:11 
+frightened	bertrand	wi	whoever	patently	midelfort:11 
+bertrand	wi	whoever	patently	frightened:11 
+bertrand	wi	whoever	patently	midelfort:11 
+wi	whoever	patently	bertrand:11 
+frightened	wi	whoever	patently	midelfort:11 
+wi	whoever	patently	frightened:11 
+wi	whoever	patently	midelfort:11 
+whoever	patently	wi:11 
+frightened	bertrand	absurdities	whoever	patently	midelfort:11 
+bertrand	absurdities	whoever	patently	frightened:11 
+bertrand	absurdities	whoever	patently	midelfort:11 
+absurdities	whoever	patently	bertrand:11 
+frightened	absurdities	whoever	patently	midelfort:11 
+absurdities	whoever	patently	frightened:11 
+absurdities	whoever	patently	midelfort:11 
+whoever	patently	absurdities:11 
+frightened	bertrand	whoever	patently	midelfort:11 
+bertrand	whoever	patently	frightened:11 
+bertrand	whoever	patently	midelfort:11 
+whoever	patently	bertrand:11 
+frightened	whoever	patently	midelfort:11 
+whoever	patently	frightened:11 
+whoever	patently	midelfort:11 
+patently	whoever:11 
+frightened	bertrand	absurdities	wi	patently	midelfort:11 
+bertrand	absurdities	wi	patently	frightened:11 
+bertrand	absurdities	wi	patently	midelfort:11 
+absurdities	wi	patently	bertrand:11 
+frightened	absurdities	wi	patently	midelfort:11 
+absurdities	wi	patently	frightened:11 
+absurdities	wi	patently	midelfort:11 
+wi	patently	absurdities:11 
+frightened	bertrand	wi	patently	midelfort:11 
+bertrand	wi	patently	frightened:11 
+bertrand	wi	patently	midelfort:11 
+wi	patently	bertrand:11 
+frightened	wi	patently	midelfort:11 
+wi	patently	frightened:11 
+wi	patently	midelfort:11 
+patently	wi:11 
+frightened	bertrand	absurdities	patently	midelfort:11 
+bertrand	absurdities	patently	frightened:11 
+bertrand	absurdities	patently	midelfort:11 
+absurdities	patently	bertrand:11 
+frightened	absurdities	patently	midelfort:11 
+absurdities	patently	frightened:11 
+absurdities	patently	midelfort:11 
+patently	absurdities:11 
+frightened	bertrand	patently	midelfort:11 
+bertrand	patently	frightened:11 
+bertrand	patently	midelfort:11 
+patently	bertrand:11 
+frightened	patently	midelfort:11 
+patently	frightened:11 
+patently	midelfort:11 
+frightened	bertrand	absurdities	wi	whoever	philosopher	wishes	midelfort:11 
+bertrand	absurdities	wi	whoever	philosopher	wishes	frightened:11 
+bertrand	absurdities	wi	whoever	philosopher	wishes	midelfort:11 
+absurdities	wi	whoever	philosopher	wishes	bertrand:11 
+frightened	absurdities	wi	whoever	philosopher	wishes	midelfort:11 
+absurdities	wi	whoever	philosopher	wishes	frightened:11 
+absurdities	wi	whoever	philosopher	wishes	midelfort:11 
+wi	whoever	philosopher	wishes	absurdities:11 
+frightened	bertrand	wi	whoever	philosopher	wishes	midelfort:11 
+bertrand	wi	whoever	philosopher	wishes	frightened:11 
+bertrand	wi	whoever	philosopher	wishes	midelfort:11 
+wi	whoever	philosopher	wishes	bertrand:11 
+frightened	wi	whoever	philosopher	wishes	midelfort:11 
+wi	whoever	philosopher	wishes	frightened:11 
+wi	whoever	philosopher	wishes	midelfort:11 
+whoever	philosopher	wishes	wi:11 
+frightened	bertrand	absurdities	whoever	philosopher	wishes	midelfort:11 
+bertrand	absurdities	whoever	philosopher	wishes	frightened:11 
+bertrand	absurdities	whoever	philosopher	wishes	midelfort:11 
+absurdities	whoever	philosopher	wishes	bertrand:11 
+frightened	absurdities	whoever	philosopher	wishes	midelfort:11 
+absurdities	whoever	philosopher	wishes	frightened:11 
+absurdities	whoever	philosopher	wishes	midelfort:11 
+whoever	philosopher	wishes	absurdities:11 
+frightened	bertrand	whoever	philosopher	wishes	midelfort:11 
+bertrand	whoever	philosopher	wishes	frightened:11 
+bertrand	whoever	philosopher	wishes	midelfort:11 
+whoever	philosopher	wishes	bertrand:11 
+frightened	whoever	philosopher	wishes	midelfort:11 
+whoever	philosopher	wishes	frightened:11 
+whoever	philosopher	wishes	midelfort:11 
+philosopher	wishes	whoever:11 
+frightened	bertrand	absurdities	wi	philosopher	wishes	midelfort:11 
+bertrand	absurdities	wi	philosopher	wishes	frightened:11 
+bertrand	absurdities	wi	philosopher	wishes	midelfort:11 
+absurdities	wi	philosopher	wishes	bertrand:11 
+frightened	absurdities	wi	philosopher	wishes	midelfort:11 
+absurdities	wi	philosopher	wishes	frightened:11 
+absurdities	wi	philosopher	wishes	midelfort:11 
+wi	philosopher	wishes	absurdities:11 
+frightened	bertrand	wi	philosopher	wishes	midelfort:11 
+bertrand	wi	philosopher	wishes	frightened:11 
+bertrand	wi	philosopher	wishes	midelfort:11 
+wi	philosopher	wishes	bertrand:11 
+frightened	wi	philosopher	wishes	midelfort:11 
+wi	philosopher	wishes	frightened:11 
+wi	philosopher	wishes	midelfort:11 
+philosopher	wishes	wi:11 
+frightened	bertrand	absurdities	philosopher	wishes	midelfort:11 
+bertrand	absurdities	philosopher	wishes	frightened:11 
+bertrand	absurdities	philosopher	wishes	midelfort:11 
+absurdities	philosopher	wishes	bertrand:11 
+frightened	absurdities	philosopher	wishes	midelfort:11 
+absurdities	philosopher	wishes	frightened:11 
+absurdities	philosopher	wishes	midelfort:11 
+philosopher	wishes	absurdities:11 
+frightened	bertrand	philosopher	wishes	midelfort:11 
+bertrand	philosopher	wishes	frightened:11 
+bertrand	philosopher	wishes	midelfort:11 
+philosopher	wishes	bertrand:11 
+frightened	philosopher	wishes	midelfort:11 
+philosopher	wishes	frightened:11 
+philosopher	wishes	midelfort:11 
+wishes	philosopher:11 
+frightened	bertrand	absurdities	wi	whoever	wishes	midelfort:11 
+bertrand	absurdities	wi	whoever	wishes	frightened:11 
+bertrand	absurdities	wi	whoever	wishes	midelfort:11 
+absurdities	wi	whoever	wishes	bertrand:11 
+frightened	absurdities	wi	whoever	wishes	midelfort:11 
+absurdities	wi	whoever	wishes	frightened:11 
+absurdities	wi	whoever	wishes	midelfort:11 
+wi	whoever	wishes	absurdities:11 
+frightened	bertrand	wi	whoever	wishes	midelfort:11 
+bertrand	wi	whoever	wishes	frightened:11 
+bertrand	wi	whoever	wishes	midelfort:11 
+wi	whoever	wishes	bertrand:11 
+frightened	wi	whoever	wishes	midelfort:11 
+wi	whoever	wishes	frightened:11 
+wi	whoever	wishes	midelfort:11 
+whoever	wishes	wi:11 
+frightened	bertrand	absurdities	whoever	wishes	midelfort:11 
+bertrand	absurdities	whoever	wishes	frightened:11 
+bertrand	absurdities	whoever	wishes	midelfort:11 
+absurdities	whoever	wishes	bertrand:11 
+frightened	absurdities	whoever	wishes	midelfort:11 
+absurdities	whoever	wishes	frightened:11 
+absurdities	whoever	wishes	midelfort:11 
+whoever	wishes	absurdities:11 
+frightened	bertrand	whoever	wishes	midelfort:11 
+bertrand	whoever	wishes	frightened:11 
+bertrand	whoever	wishes	midelfort:11 
+whoever	wishes	bertrand:11 
+frightened	whoever	wishes	midelfort:11 
+whoever	wishes	frightened:11 
+whoever	wishes	midelfort:11 
+wishes	whoever:11 
+frightened	bertrand	absurdities	wi	wishes	midelfort:11 
+bertrand	absurdities	wi	wishes	frightened:11 
+bertrand	absurdities	wi	wishes	midelfort:11 
+absurdities	wi	wishes	bertrand:11 
+frightened	absurdities	wi	wishes	midelfort:11 
+absurdities	wi	wishes	frightened:11 
+absurdities	wi	wishes	midelfort:11 
+wi	wishes	absurdities:11 
+frightened	bertrand	wi	wishes	midelfort:11 
+bertrand	wi	wishes	frightened:11 
+bertrand	wi	wishes	midelfort:11 
+wi	wishes	bertrand:11 
+frightened	wi	wishes	midelfort:11 
+wi	wishes	frightened:11 
+wi	wishes	midelfort:11 
+wishes	wi:11 
+frightened	bertrand	absurdities	wishes	midelfort:11 
+bertrand	absurdities	wishes	frightened:11 
+bertrand	absurdities	wishes	midelfort:11 
+absurdities	wishes	bertrand:11 
+frightened	absurdities	wishes	midelfort:11 
+absurdities	wishes	frightened:11 
+absurdities	wishes	midelfort:11 
+wishes	absurdities:11 
+frightened	bertrand	wishes	midelfort:11 
+bertrand	wishes	frightened:11 
+bertrand	wishes	midelfort:11 
+wishes	bertrand:11 
+frightened	wishes	midelfort:11 
+wishes	frightened:11 
+wishes	midelfort:11 
+frightened	bertrand	absurdities	wi	whoever	philosopher	midelfort:11 
+bertrand	absurdities	wi	whoever	philosopher	frightened:11 
+bertrand	absurdities	wi	whoever	philosopher	midelfort:11 
+absurdities	wi	whoever	philosopher	bertrand:11 
+frightened	absurdities	wi	whoever	philosopher	midelfort:11 
+absurdities	wi	whoever	philosopher	frightened:11 
+absurdities	wi	whoever	philosopher	midelfort:11 
+wi	whoever	philosopher	absurdities:11 
+frightened	bertrand	wi	whoever	philosopher	midelfort:11 
+bertrand	wi	whoever	philosopher	frightened:11 
+bertrand	wi	whoever	philosopher	midelfort:11 
+wi	whoever	philosopher	bertrand:11 
+frightened	wi	whoever	philosopher	midelfort:11 
+wi	whoever	philosopher	frightened:11 
+wi	whoever	philosopher	midelfort:11 
+whoever	philosopher	wi:11 
+frightened	bertrand	absurdities	whoever	philosopher	midelfort:11 
+bertrand	absurdities	whoever	philosopher	frightened:11 
+bertrand	absurdities	whoever	philosopher	midelfort:11 
+absurdities	whoever	philosopher	bertrand:11 
+frightened	absurdities	whoever	philosopher	midelfort:11 
+absurdities	whoever	philosopher	frightened:11 
+absurdities	whoever	philosopher	midelfort:11 
+whoever	philosopher	absurdities:11 
+frightened	bertrand	whoever	philosopher	midelfort:11 
+bertrand	whoever	philosopher	frightened:11 
+bertrand	whoever	philosopher	midelfort:11 
+whoever	philosopher	bertrand:11 
+frightened	whoever	philosopher	midelfort:11 
+whoever	philosopher	frightened:11 
+whoever	philosopher	midelfort:11 
+philosopher	whoever:11 
+frightened	bertrand	absurdities	wi	philosopher	midelfort:11 
+bertrand	absurdities	wi	philosopher	frightened:11 
+bertrand	absurdities	wi	philosopher	midelfort:11 
+absurdities	wi	philosopher	bertrand:11 
+frightened	absurdities	wi	philosopher	midelfort:11 
+absurdities	wi	philosopher	frightened:11 
+absurdities	wi	philosopher	midelfort:11 
+wi	philosopher	absurdities:11 
+frightened	bertrand	wi	philosopher	midelfort:11 
+bertrand	wi	philosopher	frightened:11 
+bertrand	wi	philosopher	midelfort:11 
+wi	philosopher	bertrand:11 
+frightened	wi	philosopher	midelfort:11 
+wi	philosopher	frightened:11 
+wi	philosopher	midelfort:11 
+philosopher	wi:11 
+frightened	bertrand	absurdities	philosopher	midelfort:11 
+bertrand	absurdities	philosopher	frightened:11 
+bertrand	absurdities	philosopher	midelfort:11 
+absurdities	philosopher	bertrand:11 
+frightened	absurdities	philosopher	midelfort:11 
+absurdities	philosopher	frightened:11 
+absurdities	philosopher	midelfort:11 
+philosopher	absurdities:11 
+frightened	bertrand	philosopher	midelfort:11 
+bertrand	philosopher	frightened:11 
+bertrand	philosopher	midelfort:11 
+philosopher	bertrand:11 
+frightened	philosopher	midelfort:11 
+philosopher	frightened:11 
+philosopher	midelfort:11 
+frightened	bertrand	absurdities	wi	whoever	midelfort:11 
+bertrand	absurdities	wi	whoever	frightened:11 
+bertrand	absurdities	wi	whoever	midelfort:11 
+absurdities	wi	whoever	bertrand:11 
+frightened	absurdities	wi	whoever	midelfort:11 
+absurdities	wi	whoever	frightened:11 
+absurdities	wi	whoever	midelfort:11 
+wi	whoever	absurdities:11 
+frightened	bertrand	wi	whoever	midelfort:11 
+bertrand	wi	whoever	frightened:11 
+bertrand	wi	whoever	midelfort:11 
+wi	whoever	bertrand:11 
+frightened	wi	whoever	midelfort:11 
+wi	whoever	frightened:11 
+wi	whoever	midelfort:11 
+whoever	wi:11 
+frightened	bertrand	absurdities	whoever	midelfort:11 
+bertrand	absurdities	whoever	frightened:11 
+bertrand	absurdities	whoever	midelfort:11 
+absurdities	whoever	bertrand:11 
+frightened	absurdities	whoever	midelfort:11 
+absurdities	whoever	frightened:11 
+absurdities	whoever	midelfort:11 
+whoever	absurdities:11 
+frightened	bertrand	whoever	midelfort:11 
+bertrand	whoever	frightened:11 
+bertrand	whoever	midelfort:11 
+whoever	bertrand:11 
+frightened	whoever	midelfort:11 
+whoever	frightened:11 
+whoever	midelfort:11 
+frightened	bertrand	absurdities	wi	midelfort:11 
+bertrand	absurdities	wi	frightened:11 
+bertrand	absurdities	wi	midelfort:11 
+absurdities	wi	bertrand:11 
+frightened	absurdities	wi	midelfort:11 
+absurdities	wi	frightened:11 
+absurdities	wi	midelfort:11 
+wi	absurdities:11 
+frightened	bertrand	wi	midelfort:11 
+bertrand	wi	frightened:11 
+bertrand	wi	midelfort:11 
+wi	bertrand:11 
+frightened	wi	midelfort:11 
+wi	frightened:11 
+wi	midelfort:11 
+programmer	dammit:11 
+frightened	bertrand	absurdities	midelfort:11 
+bertrand	absurdities	frightened:11 
+bertrand	absurdities	midelfort:11 
+absurdities	bertrand:11 
+frightened	absurdities	midelfort:11 
+absurdities	frightened:11 
+absurdities	midelfort:11 
+frightened	bertrand	midelfort:11 
+bertrand	frightened:11 
+bertrand	midelfort:11 
+frightened	midelfort:11 
+bought:10 
+contrary:10 
+assume:10 
+evening:10 
+felt:10 
+spread:10 
+beth:10 
+depending:10 
+wide:10 
+arms:10 
+reduced:10 
+position:10 
+purposes:10 
+country:10 
+intended:10 
+paid:10 
+fortunately:10 
+charter:10 
+livermore:10 
+ready:10 
+carry:10 
+commercial:10 
+confirmed:10 
+dictionary:10 
+saturday:10 
+solid:10 
+douglas:10 
+experiences:10 
+subjects:10 
+todamhyp:10 
+base:10 
+nasty:10 
+behind:10 
+followed:10 
+react:10 
+unable:10 
+1993apr21:10 
+justified:10 
+concern:10 
+cooking:10 
+joint:10 
+seemed:10 
+metabolic:10 
+understood:10 
+towards:10 
+gyn:10 
+late:10 
+central:10 
+thousand:10 
+36:10 
+ability:10 
+across:10 
+environmental:10 
+expect:10 
+extensive:10 
+indicates:10 
+individual:10 
+led:10 
+rule:10 
+south:10 
+spent:10 
+step:10 
+donald_mackie:10 
+exact:10 
+demonstrated:10 
+freely:10 
+occuring:10 
+ottawa:10 
+supposed:10 
+274:10 
+32bis:10 
+8298v:10 
+bbs:10 
+invention:10 
+slmr:10 
+collection:10 
+context:10 
+experienced:10 
+views:10 
+morning:10 
+complaints:10 
+remaining:10 
+minute:10 
+stories:10 
+cook:10 
+1993apr14:10 
+617:10 
+dc:10 
+sciences:10 
+suppose:10 
+pointed:10 
+vomiting:10 
+region:10 
+de:10 
+student:10 
+huge:10 
+typically:10 
+pgh:10 
+1993apr12:10 
+holloway:10 
+mhollowa:10 
+summer:10 
+numerous:10 
+dick:10 
+final:10 
+learned:10 
+nice:10 
+slightly:10 
+um:10 
+wear:10 
+conventional:10 
+imaging:10 
+laws:10 
+monosodium:10 
+approved:10 
+describe:10 
+established:10 
+units:10 
+names:10 
+terms:10 
+quit:10 
+donald	donald_mackie:10 
+huey	todamhyp:10 
+invention	bbs	8298v	32bis	274	212	slmr:10 
+bbs	8298v	32bis	274	212	invention:10 
+bbs	8298v	32bis	274	212	slmr:10 
+8298v	32bis	274	212	bbs:10 
+invention	8298v	32bis	274	212	slmr:10 
+8298v	32bis	274	212	invention:10 
+8298v	32bis	274	212	slmr:10 
+32bis	274	212	8298v:10 
+invention	bbs	32bis	274	212	slmr:10 
+bbs	32bis	274	212	invention:10 
+bbs	32bis	274	212	slmr:10 
+32bis	274	212	bbs:10 
+invention	32bis	274	212	slmr:10 
+32bis	274	212	invention:10 
+32bis	274	212	slmr:10 
+274	212	32bis:10 
+invention	bbs	8298v	274	212	slmr:10 
+bbs	8298v	274	212	invention:10 
+bbs	8298v	274	212	slmr:10 
+8298v	274	212	bbs:10 
+invention	8298v	274	212	slmr:10 
+8298v	274	212	invention:10 
+8298v	274	212	slmr:10 
+274	212	8298v:10 
+invention	bbs	274	212	slmr:10 
+bbs	274	212	invention:10 
+bbs	274	212	slmr:10 
+274	212	bbs:10 
+invention	274	212	slmr:10 
+274	212	invention:10 
+274	212	slmr:10 
+212	274:10 
+invention	bbs	8298v	32bis	212	slmr:10 
+bbs	8298v	32bis	212	invention:10 
+bbs	8298v	32bis	212	slmr:10 
+8298v	32bis	212	bbs:10 
+invention	8298v	32bis	212	slmr:10 
+8298v	32bis	212	invention:10 
+8298v	32bis	212	slmr:10 
+32bis	212	8298v:10 
+invention	bbs	32bis	212	slmr:10 
+bbs	32bis	212	invention:10 
+bbs	32bis	212	slmr:10 
+32bis	212	bbs:10 
+invention	32bis	212	slmr:10 
+32bis	212	invention:10 
+32bis	212	slmr:10 
+212	32bis:10 
+invention	bbs	8298v	212	slmr:10 
+bbs	8298v	212	invention:10 
+bbs	8298v	212	slmr:10 
+8298v	212	bbs:10 
+invention	8298v	212	slmr:10 
+8298v	212	invention:10 
+8298v	212	slmr:10 
+212	8298v:10 
+invention	bbs	212	slmr:10 
+bbs	212	invention:10 
+bbs	212	slmr:10 
+212	bbs:10 
+invention	212	slmr:10 
+212	invention:10 
+212	slmr:10 
+invention	bbs	8298v	32bis	274	slmr:10 
+bbs	8298v	32bis	274	invention:10 
+bbs	8298v	32bis	274	slmr:10 
+8298v	32bis	274	bbs:10 
+invention	8298v	32bis	274	slmr:10 
+8298v	32bis	274	invention:10 
+8298v	32bis	274	slmr:10 
+32bis	274	8298v:10 
+invention	bbs	32bis	274	slmr:10 
+bbs	32bis	274	invention:10 
+bbs	32bis	274	slmr:10 
+32bis	274	bbs:10 
+invention	32bis	274	slmr:10 
+32bis	274	invention:10 
+32bis	274	slmr:10 
+274	32bis:10 
+invention	bbs	8298v	274	slmr:10 
+bbs	8298v	274	invention:10 
+bbs	8298v	274	slmr:10 
+8298v	274	bbs:10 
+invention	8298v	274	slmr:10 
+8298v	274	invention:10 
+8298v	274	slmr:10 
+274	8298v:10 
+invention	bbs	274	slmr:10 
+bbs	274	invention:10 
+bbs	274	slmr:10 
+274	bbs:10 
+invention	274	slmr:10 
+274	invention:10 
+274	slmr:10 
+invention	bbs	8298v	32bis	slmr:10 
+bbs	8298v	32bis	invention:10 
+bbs	8298v	32bis	slmr:10 
+8298v	32bis	bbs:10 
+invention	8298v	32bis	slmr:10 
+8298v	32bis	invention:10 
+8298v	32bis	slmr:10 
+32bis	8298v:10 
+invention	bbs	32bis	slmr:10 
+bbs	32bis	invention:10 
+bbs	32bis	slmr:10 
+32bis	bbs:10 
+invention	32bis	slmr:10 
+32bis	invention:10 
+32bis	slmr:10 
+invention	bbs	8298v	slmr:10 
+bbs	8298v	invention:10 
+bbs	8298v	slmr:10 
+8298v	bbs:10 
+invention	8298v	slmr:10 
+8298v	invention:10 
+8298v	slmr:10 
+invention	bbs	slmr:10 
+bbs	invention:10 
+bbs	slmr:10 
+invention	slmr:10 
+holloway	mhollowa:10 
+degree:9 
+cheers:9 
+fatal:9 
+hello:9 
+recognize:9 
+bother:9 
+proven:9 
+cso:9 
+pre:9 
+laser:9 
+dream:9 
+kellog:9 
+gastroenterology:9 
+141:9 
+hundred:9 
+37:9 
+options:9 
+tells:9 
+drinks:9 
+constitute:9 
+forum:9 
+placed:9 
+steven:9 
+hands:9 
+200:9 
+entirely:9 
+exceeds:9 
+genetics:9 
+hill:9 
+416:9 
+force:9 
+hamilton:9 
+england:9 
+kidding:9 
+bar:9 
+leaves:9 
+june:9 
+clark:9 
+imagine:9 
+maintain:9 
+enzyme:9 
+events:9 
+ms:9 
+points:9 
+woke:9 
+load:9 
+diagnostic:9 
+ontario	416:9 
+fred	carlton:9 

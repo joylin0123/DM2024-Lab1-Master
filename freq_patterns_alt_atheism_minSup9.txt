@@ -1,0 +1,947 @@
+choices:9
+corp:9
+hausmann:9
+hausmann	maddi:9
+kids:9
+ccit:9
+jyusenkyou:9
+cash:9
+addition:9
+confusing:9
+favorite:9
+prime:9
+referred:9
+similarly:9
+towards:9
+leaving:9
+applicable:9
+applied:9
+hands:9
+itd:9
+mil:9
+price:9
+regarding:9
+scholars:9
+umar:9
+total:9
+v1:9
+v1	cambridge:9
+v1	consultants:9
+cambridge	v1	consultants:9
+v1	01:9
+cambridge	v1	01:9
+consultants	v1	01:9
+cambridge	consultants	v1	01:9
+honest:9
+iii:9
+names:9
+stronger:9
+pa:9
+chimps:9
+access:9
+relationship:9
+clark:9
+driving:9
+healed:9
+nazi:9
+piece:9
+psalms:9
+decides:9
+highly:9
+living:9
+included:9
+behind:9
+commonly:9
+con:9
+pro:9
+cost:9
+execution:9
+happiness:9
+liberty:9
+mccullou:9
+violation:9
+wisc:9
+wisc	mccullou:9
+appropriate:9
+fight:9
+constructing:9
+figure:9
+followers:9
+section:9
+introduced:9
+portion:9
+watch:9
+measure:9
+programs:9
+unknown:9
+benefit:9
+parts:9
+peter:9
+127:9
+127	dos:9
+127	mailer:9
+dos	127	mailer:9
+contribute:9
+eyes:9
+krakatoa:9
+krakatoa	dos:9
+krakatoa	mailer:9
+dos	krakatoa	mailer:9
+krakatoa	127:9
+dos	krakatoa	127:9
+mailer	krakatoa	127:9
+dos	mailer	krakatoa	127:9
+kupajava:9
+kupajava	dos:9
+kupajava	mailer:9
+dos	kupajava	mailer:9
+kupajava	127:9
+dos	kupajava	127:9
+mailer	kupajava	127:9
+dos	mailer	kupajava	127:9
+kupajava	krakatoa:9
+dos	kupajava	krakatoa:9
+mailer	kupajava	krakatoa:9
+127	kupajava	krakatoa:9
+dos	mailer	kupajava	krakatoa:9
+dos	127	kupajava	krakatoa:9
+mailer	127	kupajava	krakatoa:9
+dos	mailer	127	kupajava	krakatoa:9
+supports:9
+virtue:9
+age:9
+box:9
+hey:9
+plenty:9
+rush:9
+ohio:9
+foundation:9
+united:9
+constant:9
+whom:9
+apologize:9
+cross:9
+pretend:9
+rational:9
+went:9
+conclusions:9
+generation:9
+party:9
+contradicts:9
+phenomenon:9
+deep:9
+deletions:9
+mostly:9
+definitely:9
+april:9
+thrown:9
+extent:9
+unable:9
+approach:9
+dictionary:9
+four:9
+satanic:9
+organizations:9
+mankind:9
+provided:9
+heart:9
+traditional:9
+ah:9
+deny:9
+exact:9
+finds:9
+patrick:9
+shit:9
+existed:9
+ought:9
+weeks:9
+friends:9
+canada:9
+abo:9
+andtbacka:9
+andtbacka	abo:9
+finabo:9
+finabo	abo:9
+finabo	andtbacka:9
+abo	finabo	andtbacka:9
+mandtbacka:9
+mandtbacka	abo:9
+mandtbacka	andtbacka:9
+abo	mandtbacka	andtbacka:9
+mandtbacka	finabo:9
+abo	mandtbacka	finabo:9
+andtbacka	mandtbacka	finabo:9
+abo	andtbacka	mandtbacka	finabo:9
+mats:9
+mats	abo:9
+mats	andtbacka:9
+abo	mats	andtbacka:9
+mats	finabo:9
+abo	mats	finabo:9
+andtbacka	mats	finabo:9
+abo	andtbacka	mats	finabo:9
+mats	mandtbacka:9
+abo	mats	mandtbacka:9
+andtbacka	mats	mandtbacka:9
+finabo	mats	mandtbacka:9
+abo	andtbacka	mats	mandtbacka:9
+abo	finabo	mats	mandtbacka:9
+andtbacka	finabo	mats	mandtbacka:9
+abo	andtbacka	finabo	mats	mandtbacka:9
+reader:9
+funds:9
+funds	al:9
+funds	et:9
+al	funds	et:9
+funds	boy:9
+al	funds	boy:9
+et	funds	boy:9
+al	et	funds	boy:9
+funds	axes:9
+al	funds	axes:9
+et	funds	axes:9
+boy	funds	axes:9
+al	et	funds	axes:9
+al	boy	funds	axes:9
+et	boy	funds	axes:9
+al	et	boy	funds	axes:9
+matching:9
+matching	al:9
+matching	et:9
+al	matching	et:9
+matching	boy:9
+al	matching	boy:9
+et	matching	boy:9
+al	et	matching	boy:9
+matching	axes:9
+al	matching	axes:9
+et	matching	axes:9
+boy	matching	axes:9
+al	et	matching	axes:9
+al	boy	matching	axes:9
+et	boy	matching	axes:9
+al	et	boy	matching	axes:9
+matching	funds:9
+al	matching	funds:9
+et	matching	funds:9
+boy	matching	funds:9
+axes	matching	funds:9
+al	et	matching	funds:9
+al	boy	matching	funds:9
+al	axes	matching	funds:9
+et	boy	matching	funds:9
+et	axes	matching	funds:9
+boy	axes	matching	funds:9
+al	et	boy	matching	funds:9
+al	et	axes	matching	funds:9
+al	boy	axes	matching	funds:9
+et	boy	axes	matching	funds:9
+al	et	boy	axes	matching	funds:9
+motss:9
+motss	al:9
+motss	et:9
+al	motss	et:9
+motss	boy:9
+al	motss	boy:9
+et	motss	boy:9
+al	et	motss	boy:9
+motss	axes:9
+al	motss	axes:9
+et	motss	axes:9
+boy	motss	axes:9
+al	et	motss	axes:9
+al	boy	motss	axes:9
+et	boy	motss	axes:9
+al	et	boy	motss	axes:9
+motss	funds:9
+al	motss	funds:9
+et	motss	funds:9
+boy	motss	funds:9
+axes	motss	funds:9
+al	et	motss	funds:9
+al	boy	motss	funds:9
+al	axes	motss	funds:9
+et	boy	motss	funds:9
+et	axes	motss	funds:9
+boy	axes	motss	funds:9
+al	et	boy	motss	funds:9
+al	et	axes	motss	funds:9
+al	boy	axes	motss	funds:9
+et	boy	axes	motss	funds:9
+al	et	boy	axes	motss	funds:9
+motss	matching:9
+al	motss	matching:9
+et	motss	matching:9
+boy	motss	matching:9
+axes	motss	matching:9
+funds	motss	matching:9
+al	et	motss	matching:9
+al	boy	motss	matching:9
+al	axes	motss	matching:9
+al	funds	motss	matching:9
+et	boy	motss	matching:9
+et	axes	motss	matching:9
+et	funds	motss	matching:9
+boy	axes	motss	matching:9
+boy	funds	motss	matching:9
+axes	funds	motss	matching:9
+al	et	boy	motss	matching:9
+al	et	axes	motss	matching:9
+al	et	funds	motss	matching:9
+al	boy	axes	motss	matching:9
+al	boy	funds	motss	matching:9
+al	axes	funds	motss	matching:9
+et	boy	axes	motss	matching:9
+et	boy	funds	motss	matching:9
+et	axes	funds	motss	matching:9
+boy	axes	funds	motss	matching:9
+al	et	boy	axes	motss	matching:9
+al	et	boy	funds	motss	matching:9
+al	et	axes	funds	motss	matching:9
+al	boy	axes	funds	motss	matching:9
+et	boy	axes	funds	motss	matching:9
+al	et	boy	axes	funds	motss	matching:9
+scouts:9
+scouts	al:9
+scouts	et:9
+al	scouts	et:9
+scouts	boy:9
+al	scouts	boy:9
+et	scouts	boy:9
+al	et	scouts	boy:9
+scouts	axes:9
+al	scouts	axes:9
+et	scouts	axes:9
+boy	scouts	axes:9
+al	et	scouts	axes:9
+al	boy	scouts	axes:9
+et	boy	scouts	axes:9
+al	et	boy	scouts	axes:9
+scouts	funds:9
+al	scouts	funds:9
+et	scouts	funds:9
+boy	scouts	funds:9
+axes	scouts	funds:9
+al	et	scouts	funds:9
+al	boy	scouts	funds:9
+al	axes	scouts	funds:9
+et	boy	scouts	funds:9
+et	axes	scouts	funds:9
+boy	axes	scouts	funds:9
+al	et	boy	scouts	funds:9
+al	et	axes	scouts	funds:9
+al	boy	axes	scouts	funds:9
+et	boy	axes	scouts	funds:9
+al	et	boy	axes	scouts	funds:9
+scouts	matching:9
+al	scouts	matching:9
+et	scouts	matching:9
+boy	scouts	matching:9
+axes	scouts	matching:9
+funds	scouts	matching:9
+al	et	scouts	matching:9
+al	boy	scouts	matching:9
+al	axes	scouts	matching:9
+al	funds	scouts	matching:9
+et	boy	scouts	matching:9
+et	axes	scouts	matching:9
+et	funds	scouts	matching:9
+boy	axes	scouts	matching:9
+boy	funds	scouts	matching:9
+axes	funds	scouts	matching:9
+al	et	boy	scouts	matching:9
+al	et	axes	scouts	matching:9
+al	et	funds	scouts	matching:9
+al	boy	axes	scouts	matching:9
+al	boy	funds	scouts	matching:9
+al	axes	funds	scouts	matching:9
+et	boy	axes	scouts	matching:9
+et	boy	funds	scouts	matching:9
+et	axes	funds	scouts	matching:9
+boy	axes	funds	scouts	matching:9
+al	et	boy	axes	scouts	matching:9
+al	et	boy	funds	scouts	matching:9
+al	et	axes	funds	scouts	matching:9
+al	boy	axes	funds	scouts	matching:9
+et	boy	axes	funds	scouts	matching:9
+al	et	boy	axes	funds	scouts	matching:9
+scouts	motss:9
+al	scouts	motss:9
+et	scouts	motss:9
+boy	scouts	motss:9
+axes	scouts	motss:9
+funds	scouts	motss:9
+matching	scouts	motss:9
+al	et	scouts	motss:9
+al	boy	scouts	motss:9
+al	axes	scouts	motss:9
+al	funds	scouts	motss:9
+al	matching	scouts	motss:9
+et	boy	scouts	motss:9
+et	axes	scouts	motss:9
+et	funds	scouts	motss:9
+et	matching	scouts	motss:9
+boy	axes	scouts	motss:9
+boy	funds	scouts	motss:9
+boy	matching	scouts	motss:9
+axes	funds	scouts	motss:9
+axes	matching	scouts	motss:9
+funds	matching	scouts	motss:9
+al	et	boy	scouts	motss:9
+al	et	axes	scouts	motss:9
+al	et	funds	scouts	motss:9
+al	et	matching	scouts	motss:9
+al	boy	axes	scouts	motss:9
+al	boy	funds	scouts	motss:9
+al	boy	matching	scouts	motss:9
+al	axes	funds	scouts	motss:9
+al	axes	matching	scouts	motss:9
+al	funds	matching	scouts	motss:9
+et	boy	axes	scouts	motss:9
+et	boy	funds	scouts	motss:9
+et	boy	matching	scouts	motss:9
+et	axes	funds	scouts	motss:9
+et	axes	matching	scouts	motss:9
+et	funds	matching	scouts	motss:9
+boy	axes	funds	scouts	motss:9
+boy	axes	matching	scouts	motss:9
+boy	funds	matching	scouts	motss:9
+axes	funds	matching	scouts	motss:9
+al	et	boy	axes	scouts	motss:9
+al	et	boy	funds	scouts	motss:9
+al	et	boy	matching	scouts	motss:9
+al	et	axes	funds	scouts	motss:9
+al	et	axes	matching	scouts	motss:9
+al	et	funds	matching	scouts	motss:9
+al	boy	axes	funds	scouts	motss:9
+al	boy	axes	matching	scouts	motss:9
+al	boy	funds	matching	scouts	motss:9
+al	axes	funds	matching	scouts	motss:9
+et	boy	axes	funds	scouts	motss:9
+et	boy	axes	matching	scouts	motss:9
+et	boy	funds	matching	scouts	motss:9
+et	axes	funds	matching	scouts	motss:9
+boy	axes	funds	matching	scouts	motss:9
+al	et	boy	axes	funds	scouts	motss:9
+al	et	boy	axes	matching	scouts	motss:9
+al	et	boy	funds	matching	scouts	motss:9
+al	et	axes	funds	matching	scouts	motss:9
+al	boy	axes	funds	matching	scouts	motss:9
+et	boy	axes	funds	matching	scouts	motss:9
+al	et	boy	axes	funds	matching	scouts	motss:9
+interests:9
+address:9
+includes:9
+anywhere:9
+introduction:9
+spiritual:9
+server:9
+absence:10
+alternatives:10
+contradictions:10
+gives:10
+interested:10
+leads:10
+unicorns:10
+prepared:10
+blind:10
+fully:10
+odd:10
+phrase:10
+psychological:10
+melb:10
+pre:10
+applies:10
+founded:10
+originally:10
+round:10
+stick:10
+aware:10
+possibilities:10
+spend:10
+speaking:10
+adam:10
+degree:10
+minds:10
+implies:10
+manner:10
+shall:10
+supported:10
+predictions:10
+eh:10
+47:10
+avoid:10
+intelligent:10
+civil:10
+rate:10
+core:10
+spending:10
+purposes:10
+scott:10
+copies:10
+period:10
+dos:10
+mailer:10
+mailer	dos:9
+move:10
+helping:10
+loved:10
+weight:10
+argued:10
+interpret:10
+metaphysical:10
+raised:10
+sig:10
+intelligence:10
+forget:10
+referring:10
+soon:10
+texts:10
+quick:10
+carefully:10
+summary:10
+wants:10
+deaths:10
+resulted:10
+guilt:10
+contains:10
+comment:10
+powerful:10
+fun:10
+spent:10
+39:10
+versions:10
+fri:10
+appears:10
+origin:10
+sign:10
+appear:10
+somebody:10
+axes:10
+axes	al:9
+axes	et:9
+al	axes	et:9
+axes	boy:9
+al	axes	boy:9
+et	axes	boy:9
+al	et	axes	boy:9
+add:10
+worth:10
+food:10
+34:10
+allows:11
+game:11
+creation:11
+cut:11
+maddi:11
+vms:11
+folks:11
+wishes:11
+25:11
+understood:11
+51:11
+yeah:11
+societies:11
+status:11
+1993apr14:11
+brought:11
+library:11
+citizens:11
+step:11
+unusual:11
+mcl:11
+mcl	agnostics:10
+amusing	mcl	agnostics:10
+mcl	amusing:11
+timmbake:11
+timmbake	agnostics:10
+amusing	timmbake	agnostics:10
+mcl	timmbake	agnostics:10
+amusing	mcl	timmbake	agnostics:10
+timmbake	amusing:11
+timmbake	mcl:11
+amusing	timmbake	mcl:11
+ucsb:11
+ucsb	agnostics:10
+amusing	ucsb	agnostics:10
+mcl	ucsb	agnostics:10
+timmbake	ucsb	agnostics:10
+amusing	mcl	ucsb	agnostics:10
+amusing	timmbake	ucsb	agnostics:10
+mcl	timmbake	ucsb	agnostics:10
+amusing	mcl	timmbake	ucsb	agnostics:10
+ucsb	amusing:11
+ucsb	mcl:11
+amusing	ucsb	mcl:11
+ucsb	timmbake:11
+amusing	ucsb	timmbake:11
+mcl	ucsb	timmbake:11
+amusing	mcl	ucsb	timmbake:11
+nm0w:11
+nm0w	miller:11
+describe:11
+kingdom:11
+convinced:11
+excuse:11
+share:11
+waste:11
+soul:11
+longer:11
+tm:11
+observations:11
+arabia:11
+welcome:11
+birth:11
+historical:11
+translation:11
+believes:11
+explained:11
+falls:11
+together:11
+removed:11
+responsible:11
+48:11
+centre:11
+evolved:11
+besides:11
+lost:11
+missed:11
+compare:11
+ourselves:11
+sake:11
+40:11
+policy:11
+relates:11
+content:11
+incorrect:11
+justify:11
+numbers:11
+saw:11
+members:11
+attempting:11
+complex:11
+ordinary:11
+burden:11
+telling:11
+christ:11
+lous:11
+lous	brothers:11
+lous	closed:11
+brothers	lous	closed:11
+lous	strife:11
+brothers	lous	strife:11
+closed	lous	strife:11
+brothers	closed	lous	strife:11
+marv:11
+marv	brothers:11
+marv	closed:11
+brothers	marv	closed:11
+marv	strife:11
+brothers	marv	strife:11
+closed	marv	strife:11
+brothers	closed	marv	strife:11
+marv	lous:11
+brothers	marv	lous:11
+closed	marv	lous:11
+strife	marv	lous:11
+brothers	closed	marv	lous:11
+brothers	strife	marv	lous:11
+closed	strife	marv	lous:11
+brothers	closed	strife	marv	lous:11
+sod:11
+sod	brothers:11
+sod	closed:11
+brothers	sod	closed:11
+sod	strife:11
+brothers	sod	strife:11
+closed	sod	strife:11
+brothers	closed	sod	strife:11
+sod	lous:11
+brothers	sod	lous:11
+closed	sod	lous:11
+strife	sod	lous:11
+brothers	closed	sod	lous:11
+brothers	strife	sod	lous:11
+closed	strife	sod	lous:11
+brothers	closed	strife	sod	lous:11
+sod	marv:11
+brothers	sod	marv:11
+closed	sod	marv:11
+strife	sod	marv:11
+lous	sod	marv:11
+brothers	closed	sod	marv:11
+brothers	strife	sod	marv:11
+brothers	lous	sod	marv:11
+closed	strife	sod	marv:11
+closed	lous	sod	marv:11
+strife	lous	sod	marv:11
+brothers	closed	strife	sod	marv:11
+brothers	closed	lous	sod	marv:11
+brothers	strife	lous	sod	marv:11
+closed	strife	lous	sod	marv:11
+brothers	closed	strife	lous	sod	marv:11
+tove:11
+tove	brothers:11
+tove	closed:11
+brothers	tove	closed:11
+tove	strife:11
+brothers	tove	strife:11
+closed	tove	strife:11
+brothers	closed	tove	strife:11
+tove	lous:11
+brothers	tove	lous:11
+closed	tove	lous:11
+strife	tove	lous:11
+brothers	closed	tove	lous:11
+brothers	strife	tove	lous:11
+closed	strife	tove	lous:11
+brothers	closed	strife	tove	lous:11
+tove	marv:11
+brothers	tove	marv:11
+closed	tove	marv:11
+strife	tove	marv:11
+lous	tove	marv:11
+brothers	closed	tove	marv:11
+brothers	strife	tove	marv:11
+brothers	lous	tove	marv:11
+closed	strife	tove	marv:11
+closed	lous	tove	marv:11
+strife	lous	tove	marv:11
+brothers	closed	strife	tove	marv:11
+brothers	closed	lous	tove	marv:11
+brothers	strife	lous	tove	marv:11
+closed	strife	lous	tove	marv:11
+brothers	closed	strife	lous	tove	marv:11
+tove	sod:11
+brothers	tove	sod:11
+closed	tove	sod:11
+strife	tove	sod:11
+lous	tove	sod:11
+marv	tove	sod:11
+brothers	closed	tove	sod:11
+brothers	strife	tove	sod:11
+brothers	lous	tove	sod:11
+brothers	marv	tove	sod:11
+closed	strife	tove	sod:11
+closed	lous	tove	sod:11
+closed	marv	tove	sod:11
+strife	lous	tove	sod:11
+strife	marv	tove	sod:11
+lous	marv	tove	sod:11
+brothers	closed	strife	tove	sod:11
+brothers	closed	lous	tove	sod:11
+brothers	closed	marv	tove	sod:11
+brothers	strife	lous	tove	sod:11
+brothers	strife	marv	tove	sod:11
+brothers	lous	marv	tove	sod:11
+closed	strife	lous	tove	sod:11
+closed	strife	marv	tove	sod:11
+closed	lous	marv	tove	sod:11
+strife	lous	marv	tove	sod:11
+brothers	closed	strife	lous	tove	sod:11
+brothers	closed	strife	marv	tove	sod:11
+brothers	closed	lous	marv	tove	sod:11
+brothers	strife	lous	marv	tove	sod:11
+closed	strife	lous	marv	tove	sod:11
+brothers	closed	strife	lous	marv	tove	sod:11
+affect:11
+primitive:11
+considering:11
+w165w:11
+cso:11
+criminals:11
+light:11
+hmm:11
+eagle:11
+decided:11
+coming:12
+occur:12
+play:12
+home:12
+top:12
+41:12
+innocents:12
+philosophy:12
+37:12
+existing:12
+happens:12
+levels:12
+request:12
+run:12
+yours:12
+27:12
+01:12
+01	cambridge:9
+01	consultants:9
+cambridge	01	consultants:9
+standards:12
+below:12
+email:12
+huh:12
+anybody:12
+ways:12
+built:12
+kept:12
+kept	hearing:9
+29:12
+38:12
+posters:12
+somehow:12
+bother:12
+contradict:12
+rarely:12
+class:12
+gone:12
+intent:12
+realize:12
+specific:12
+solely:12
+official:12
+straight:12
+35:12
+base:12
+uunet:12
+agency:12
+suffering:12
+pl6:12
+material:12
+principles:12
+bunch:12
+uses:12
+points:12
+commit:12
+strife:12
+strife	brothers:11
+strife	closed:11
+brothers	strife	closed:11
+serious:12
+justification:12
+major:12
+boy:12
+boy	al:9
+boy	et:9
+al	boy	et:9
+contain:12
+amount:13
+disagree:13
+jehovah:13
+visit:13
+visit	jehovah:11
+punish:13
+software:13
+suffer:13
+former:13
+personally:13
+angels:13
+special:13
+convince:13
+significant:13
+comments:13
+22:13
+happened:13
+memory:13
+third:13
+survival:13
+wild:13
+ie:13
+millions:13
+depends:13
+tried:13
+source:13
+accurate:13
+pay:13
+agreed:13
+random:13
+concerned:13
+topic:13
+listen:13
+fault:13
+supposedly:13
+michael:13
+okay:13
+raise:13
+easy:13
+dating:13
+mimsy:13
+study:13
+intellectual:13
+mistake:13
+engineering:13
+giving:13
+suggest:13
+pl9:13
+catholic:14
+easily:14
+truly:14
+usual:14
+putting:14
+dept:14
+absurd:14
+latter:14
+sufficient:14
+head:14
+agnostics:14
+agnostics	amusing:11
+hearing:14
+required:14
+thinks:14
+pompous:14
+hardly:14
+answered:14
+quotes:14
+changed:14
+facts:14
+except:14
+showing:14
+apart:14
+destroy:14
+destroy	became:9
+research:14
+type:14
+absolutely:14
+effort:14
+effort	became:9
+definitions:15
+shows:15
+useful:15
+consultants:15
+consultants	cambridge:15
+during:15
+amusing:15
+america:15
+noted:15
+wait:15
+lawrence:15
+contrary:15
+sounds:15
+regards:15
+authors:15
+concerning:15
+et:15
+et	al:12
+issues:15
+fellow:15
+including:15
+came:15
+became:15
+produce:15
+claiming:15
+available:15
+title:15
+al:15
+close:15
+looking:15
+thanks:16
+miller:16
+boston:16
+cambridge:16
+space:16
+lloyd:16
+anecdote:17
+bureau:17
+brothers:17
+elsewhere:17
+recently:17
+places:17
+closed:17
+closed	brothers:12

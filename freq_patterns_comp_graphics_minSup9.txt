@@ -1,0 +1,261 @@
+individual:9
+certain:9
+hall:9
+mike:9
+compact:9
+flat:9
+mhz:9
+williams:9
+traced:9
+professional:9
+student:9
+effort:9
+specification:9
+july:9
+represents:9
+tony:9
+class:9
+added:9
+uunet:9
+become:9
+companies:9
+lots:9
+boy:9
+carson:9
+seattle:9
+38:9
+advantage:9
+netherlands:9
+ma:9
+hernandez:9
+magazine:9
+muchado:9
+muchado	hernandez:9
+jeff:9
+left:9
+readers:9
+direct:9
+build:9
+base:9
+equipment:9
+thinking:9
+creates:9
+entire:9
+suspect:9
+regarding:9
+isbn:9
+newsgroups:9
+press:9
+arbitrary:9
+eye:9
+implemented:9
+nor:9
+responses:9
+word:9
+vs:9
+spend:9
+extended:9
+located:9
+moment:9
+04:9
+progress:9
+received:9
+architecture:9
+morphing:9
+sounds:9
+sys:9
+exact:9
+51:9
+edit:9
+addition:9
+na:9
+usual:9
+finding:9
+wa:9
+methods:9
+collection:9
+ann:9
+arbor:9
+arbor	ann:9
+michigan:9
+70:9
+luck:9
+close:9
+andrew:9
+dynamic:9
+east:9
+half:9
+mountain:9
+review:9
+spectrum:9
+tech:9
+tested:9
+united:9
+vax:9
+cube:9
+necessary:9
+rgc3679:9
+rgc3679	bcstec:9
+dark:9
+earlier:9
+extra:9
+industrial:9
+newer:9
+register:9
+urbana:9
+option:9
+tim:9
+somewhere:10
+et:10
+southern:10
+zhenghao:10
+zyeh:10
+zyeh	zhenghao:10
+serious:10
+amount:10
+mine:10
+options:10
+pp:10
+graphical:10
+okay:10
+ltd:10
+west:10
+bus:10
+play:10
+reason:10
+issue:10
+320x200x256:10
+exists:10
+150:10
+truly:10
+notice:10
+ok:10
+rene:10
+situation:10
+approach:10
+besides:10
+contain:10
+difficult:10
+outputs:10
+outside:10
+piece:10
+recent:10
+enjoy:10
+tasks:10
+highly:10
+show:10
+names:10
+taking:10
+management:10
+render:10
+srvr1:10
+stand:10
+costs:10
+switzerland:10
+welcome:10
+claim:10
+bcstec:10
+ones:10
+compile:10
+jim:10
+microsoft:10
+reasonable:10
+suggest:10
+together:10
+today:10
+advice:10
+workshop:10
+near:10
+hands:10
+response:11
+friend:11
+spot:11
+talking:11
+stephen:11
+share:11
+34:11
+guide:11
+1989:11
+cross:11
+iff:11
+wouldn:11
+started:11
+bryan:11
+remember:11
+odd:11
+converts:11
+resulting:11
+ways:11
+nearly:11
+respond:11
+responsible:11
+reads:11
+implementation:11
+specifically:11
+literature:11
+1992:11
+creating:11
+figure:11
+none:11
+opinion:11
+consider:11
+showing:12
+cpu:12
+bottom:12
+pointers:12
+everyone:12
+technique:12
+goes:12
+starting:12
+until:12
+quick:12
+early:12
+possibly:12
+recommendations:12
+generate:12
+complicated:12
+ready:12
+alone:12
+awful:12
+awful	favor:12
+awful	discussing:12
+favor	awful	discussing:12
+convenience:12
+convenience	favor:12
+convenience	discussing:12
+favor	convenience	discussing:12
+convenience	awful:12
+favor	convenience	awful:12
+discussing	convenience	awful:12
+favor	discussing	convenience	awful:12
+wate:12
+wate	favor:12
+wate	discussing:12
+favor	wate	discussing:12
+wate	awful:12
+favor	wate	awful:12
+discussing	wate	awful:12
+favor	discussing	wate	awful:12
+wate	convenience:12
+favor	wate	convenience:12
+discussing	wate	convenience:12
+awful	wate	convenience:12
+favor	discussing	wate	convenience:12
+favor	awful	wate	convenience:12
+discussing	awful	wate	convenience:12
+favor	discussing	awful	wate	convenience:12
+experience:12
+shelley:12
+issues:12
+al:13
+across:13
+finally:13
+stupid:13
+mentioned:13
+structure:13
+discussing:13
+discussing	favor:12
+matter:13
+released:13
+displaying:14
+favor:14
